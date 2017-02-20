@@ -28,6 +28,7 @@ def main():
     global xList
     global yList
     global pX
+    global pY = 0
     global pY = 10
     
     pX = []
@@ -49,6 +50,7 @@ def main():
         bdr.right(90)
     bdr.forward(350)
     bdr.hideturtle()
+
 # This is a
 # Multiline Comment
 # I wanna try it
