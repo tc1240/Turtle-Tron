@@ -6,3 +6,5 @@ This program, constructed through the genius of Tyler Collins and James Gelok, i
 Through using techniques such as encircling your opponent, cutting him/her off, and many others you can force your enemy into your or her trail and obtain victory!
 
 lol
+
+Ten
