@@ -28,8 +28,7 @@ def main():
     global xList
     global yList
     global pX
-    global pY = 0
-    global pY = 10
+    global pY
     
     pX = []
     pY = []
@@ -50,10 +49,7 @@ def main():
         bdr.right(90)
     bdr.forward(350)
     bdr.hideturtle()
-
-# This is a
-# Multiline Comment
-# I wanna try it
+    
     #creates Goldenrod
     bike = Turtle()
     bike.penup()
