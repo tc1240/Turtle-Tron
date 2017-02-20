@@ -28,7 +28,7 @@ def main():
     global xList
     global yList
     global pX
-    global pY = 0
+    global pY = 10
     
     pX = []
     pY = []
